@@ -1,0 +1,3 @@
+[submodule "bchain-sgd"]
+	path = bchain-sgd
+	url = git@github.com:DSSLab-code/Bchain-SGD.git
